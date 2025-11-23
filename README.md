@@ -4,6 +4,7 @@ To simulate an operational amplifier based Non inverting Amplifier and verify it
 ## Apparatus required:
 PC with LT Spice Software
 ## Circuit Diagram:
+<img width="1920" height="1080" alt="Screenshot 2025-11-22 215710" src="https://github.com/user-attachments/assets/b2634d78-0644-4f76-8658-2a8895a09326" />
 
 ## SIMULATION PROCEDURE:
 1.	Open the Ltspice software
